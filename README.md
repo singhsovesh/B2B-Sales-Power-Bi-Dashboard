@@ -207,9 +207,9 @@ Enables dynamic year-over-year revenue pacing and trajectory comparisons.
 
 **Mirzan**
 
-- **LinkedIn:** [linkedin.com/in/mirzan-fawas](https://www.linkedin.com/in/mirzan-fawas)
-- **GitHub:** [github.com/mhdmirzan](https://github.com/mhdmirzan)
-- **Portfolio:** [mirzan.dev](https://mirzan.dev)
+- **LinkedIn:** [linkedin.com/in/sovesh-singh](https://www.linkedin.com/in/sovesh-singh)
+- **GitHub:** [github.com/sovesh-singh](https://github.com/sovesh-singh)
+
 
 ---
 
